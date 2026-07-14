@@ -64,7 +64,7 @@ Desarrollo de un sistema empotrado orientado a la captura, transmisión y monito
 
 **Áreas trabajadas:** sistemas empotrados, comunicaciones, sensores, telemetría y procesamiento de datos.
 
-[Ver proyecto](https://github.com/lorenpoloa/UAV_Telemetry)
+[Ver proyecto Sistema empotrado de Telemetría](https://github.com/lorenpoloa/UAV_Telemetry)
 
 ### Benchmark de arquitectura de computadores
 
@@ -72,7 +72,7 @@ Herramienta diseñada para medir y comparar el rendimiento de diferentes compone
 
 **Áreas trabajadas:** programación de bajo nivel, rendimiento, automatización de pruebas y análisis de resultados.
 
-[Ver proyecto](ENLACE_AL_REPOSITORIO)
+[Ver proyecto KangarooPINTool](https://github.com/lorenpoloa/KangarooPINTool)
 
 ### Aplicación web con Django
 
@@ -80,7 +80,9 @@ Aplicación web desarrollada con Django, incluyendo lógica de negocio, gestión
 
 **Áreas trabajadas:** Python, Django, bases de datos, desarrollo backend y arquitectura web.
 
-[Ver proyecto](ENLACE_AL_REPOSITORIO)
+[Ver proyecto IAgora](https://github.com/lorenpoloa/IAgora)
+[Ver proyecto Forum in Django](https://github.com/lorenpoloa/PyDjForum)
+
 
 ### Análisis de datos con aprendizaje automático
 
@@ -96,7 +98,6 @@ Diseño y desarrollo de un videojuego como proyecto personal, trabajando tanto e
 
 **Áreas trabajadas:** programación orientada a objetos, diseño de software, algoritmos y desarrollo de videojuegos.
 
-[Ver proyecto](ENLACE_AL_REPOSITORIO)
 
 ## Actualmente
 
@@ -107,9 +108,8 @@ Diseño y desarrollo de un videojuego como proyecto personal, trabajando tanto e
 
 ## Contacto
 
-* LinkedIn: [Tu perfil de LinkedIn](ENLACE_LINKEDIN)
-* Correo electrónico: [Tu correo profesional](mailto:TU_CORREO)
-* Currículum: [Consultar CV](ENLACE_AL_CV)
+* LinkedIn: [Tu perfil de LinkedIn](https://www.linkedin.com/in/lorenzo-polo-arévalo-297471385/)
+
 
 ---
 
