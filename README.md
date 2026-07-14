@@ -64,7 +64,7 @@ Desarrollo de un sistema empotrado orientado a la captura, transmisión y monito
 
 **Áreas trabajadas:** sistemas empotrados, comunicaciones, sensores, telemetría y procesamiento de datos.
 
-[Ver proyecto](ENLACE_AL_REPOSITORIO)
+[Ver proyecto](https://github.com/lorenpoloa/UAV_Telemetry)
 
 ### Benchmark de arquitectura de computadores
 
