@@ -1,4 +1,4 @@
-# Hola, soy [Tu nombre] 👋
+# Hola, soy Lorenzo Polo 👋
 
 Soy graduado en Ingeniería Informática y actualmente estoy buscando mi primera oportunidad profesional en el sector tecnológico.
 
